@@ -4,5 +4,5 @@ Creating a new branch is quick & simple.
 
 diffmas
 
-new branch
+issue-101 is a new branch
 
