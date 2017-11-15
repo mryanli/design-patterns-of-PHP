@@ -1,0 +1,1 @@
+my studing code of patterns with PHP
