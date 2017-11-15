@@ -4,4 +4,5 @@ Creating a new branch is quick & simple.
 
 diffdev
 
+new branch
 
