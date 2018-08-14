@@ -1,6 +1,7 @@
 package create.abstract_factorymethod;
 
 public class AbstractFactoryPatternDemo {
+	
 	 public static void main(String[] args) {
 		//获取形状工厂
 	    AbstractFactory shapeFactory = FactoryProducer.getFactory("SHAPE");
