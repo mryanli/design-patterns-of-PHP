@@ -7,5 +7,11 @@ public class Monitor implements ComputerPart {
 		computerPartVisitor.vist(this);
 
 	}
+	
+	@Override
+	public void doByVisit() {
+		System.out.println("monitor be visited");
+		
+	}
 
 }

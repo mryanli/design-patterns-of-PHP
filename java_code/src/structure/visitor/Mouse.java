@@ -7,5 +7,11 @@ public class Mouse implements ComputerPart {
 		computerPartVisitor.vist(this);
 
 	}
+	
+	
+	@Override
+	public void doByVisit() {
+		System.out.println("mouse be visited");
+	}
 
 }

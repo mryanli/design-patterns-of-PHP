@@ -6,5 +6,11 @@ public class Keyboard implements ComputerPart {
 	public void accept(ComputerPartVisitor computerPartVisitor) {
 		computerPartVisitor.vist(this);
 	}
+	
+	@Override
+	public void doByVisit() {
+		System.out.println("keyboard is visited");
+		
+	}
 
 }
